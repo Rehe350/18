@@ -11,7 +11,7 @@
     }],
     "sites": [{
             "key": "XMVideo",
-            "name": "测试",
+            "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
             "type": 3,
             "api": "csp_XMVideo",
             "searchable": 1,
@@ -19,9 +19,9 @@
         },
         {
             "key": "J91",
-            "name": "\uD83D\uDD1E 91 | 珍惜",
+            "name": "测试",
             "type": 3,
-            "api": "csp_QxiTv",
+            "api": "csp_CaoLiu",
             "searchable": 1,
             "filterable": 1
         },
